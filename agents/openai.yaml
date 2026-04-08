@@ -1,0 +1,4 @@
+interface:
+  display_name: "方法论.skill"
+  short_description: "Method-first analysis for reality, contradiction, and practice"
+  default_prompt: "Use $method-skill to analyze this topic from concrete conditions, principal contradiction, historical movement, and practical implication."
