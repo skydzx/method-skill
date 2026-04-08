@@ -4,6 +4,18 @@
 
 不是让 AI 背哲学名词，而是让 AI 按方法论做事。
 
+Method-first analysis for reality, contradiction, history, and practice.
+
+## Quick Start
+
+把这个仓库作为一个 skill 目录引入后，可以直接这样调用：
+
+```text
+Use $method-skill to analyze this problem.
+用 $method-skill 分析这个问题。
+用方法论.skill 来拆解这个社会现象。
+```
+
 ## 这是什么
 
 `method-skill` 是一个给 Codex / Claude Code 一类 AI coding agent 使用的 skill。
@@ -48,12 +60,6 @@
 ## 使用方式
 
 把本仓库作为一个 skill 目录放到你的 skills 目录下，或按你所用 agent 的 skill 机制引入。
-
-调用时可以直接说：
-
-- `Use $method-skill to analyze this problem.`
-- `用 $method-skill 分析这个问题。`
-- `用方法论.skill 来拆解这个社会现象。`
 
 ## 示例问题
 
